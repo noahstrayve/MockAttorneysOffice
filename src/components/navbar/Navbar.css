@@ -1,0 +1,21 @@
+.navbarContainer {
+	background: #FAFAD2;
+	position: absolute;
+	width: 100%;
+	margin-left: -8px;
+	margin-top: -8px;
+}
+
+.navbarTitleBox {
+	float: left;
+	margin-left: 10px;
+}
+
+.navbarLinkContainer {
+	float: right;
+}
+
+.navbarLinkBox {
+	float: left;
+	margin-right: 15px;
+}
