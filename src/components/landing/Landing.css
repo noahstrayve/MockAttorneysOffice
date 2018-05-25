@@ -1,0 +1,38 @@
+.landingWelcomeBox {
+	width: 82%;
+	position: relative;
+	height: 550px;
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+	border-radius: 5px;
+	margin-left: 9%;
+	margin-top: 80px;
+}
+
+.landingWelcomeOptionsBanner {
+	background: #F5F5F5;
+	width: 100%;
+	height: 150px;
+	position: relative;
+}
+
+.landingWelcomeImageBox {
+	height: 400px;
+	background: green;
+}
+
+.landingWelcomeOptionsTextBox {
+	width: 25%;
+	float: left;
+}
+
+.landingWelcomeOptionsHeadlineText{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.landingWelcomeOptionsSubText {
+	padding-left: 20px;
+	padding-right: 20px;
+}
