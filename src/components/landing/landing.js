@@ -7,9 +7,7 @@ const LandingPage = pages => {
 	return <div className="contentContainer">
 		<div className="landingWelcomeBox">
 			<div className="landingWelcomeImageBox">
-				
-			</div>
-			<div className="landingWelcomeOptionsBanner">
+				<div className="landingWelcomeOptionsBanner">
 				<div className="landingWelcomeOptionsBox">
 					<div className="landingWelcomeOptionsImage">
 					
@@ -67,6 +65,8 @@ const LandingPage = pages => {
 					</div>
 				</div>
 			</div>
+			</div>
+			
 		</div>
 	</div>;
 }

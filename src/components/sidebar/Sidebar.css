@@ -1,0 +1,14 @@
+.sidebarBox {
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+	width: 13%;
+	margin-left: 5%;
+	position: relative;
+	margin-top: 100px;
+	float: left;
+}
+
+.sidebarOptionText {
+	padding-left: 8%;
+}

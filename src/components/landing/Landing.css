@@ -1,24 +1,28 @@
 .landingWelcomeBox {
-	width: 82%;
+	width: 71%;
 	position: relative;
 	height: 550px;
 	border-style: solid;
 	border-color: black;
 	border-width: 2px;
 	border-radius: 5px;
-	margin-left: 9%;
-	margin-top: 80px;
+	float: right;
+	margin-right: 5%;
+	margin-top: 100px;
 }
 
 .landingWelcomeOptionsBanner {
-	background: #F5F5F5;
+	background: black;
+	color: white;
 	width: 100%;
 	height: 150px;
-	position: relative;
+	position: absolute;
+	bottom: 0;
+	opacity: 0.7;
 }
 
 .landingWelcomeImageBox {
-	height: 400px;
+	height: 550px;
 	background: green;
 }
 
