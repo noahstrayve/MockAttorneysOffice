@@ -1,7 +1,7 @@
 .sidebarBox {
 	border-style: solid;
 	border-color: black;
-	border-width: 2px;
+	border-width: 2px 2px 0px 2px;
 	width: 13%;
 	margin-left: 5%;
 	position: relative;
@@ -11,4 +11,21 @@
 
 .sidebarOptionText {
 	padding-left: 8%;
+}
+
+.sidebarBox .sidebarOptionBox:hover {
+  background: #87CEEB;
+  color: white;
+}
+
+.sidebarOptionBox {
+	border-width: 0px 0px 2px 0px;
+	border-style: solid;
+	border-color: black;
+	padding-top: 1px;
+}
+
+.sidebarBox .sidebarOptionBox:active {
+  background: black;
+  color: white;
 }

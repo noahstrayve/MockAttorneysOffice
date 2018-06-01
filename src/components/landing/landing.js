@@ -66,8 +66,15 @@ const LandingPage = pages => {
 				</div>
 			</div>
 			</div>
-			
+		<div className="statisticsBox">
+			<div className="statisticsHeaderBox">
+				<div className="statisticsHeaderText">
+					<h1>THESE ARE THE FACTS, JACK</h1>
+				</div>
+			</div>
+		</div>	
 		</div>
+		
 	</div>;
 }
 
