@@ -11,6 +11,7 @@
 
 .sidebarOptionText {
 	padding-left: 8%;
+	height: 20px;
 }
 
 .sidebarBox .sidebarOptionBox:hover {
@@ -23,6 +24,7 @@
 	border-style: solid;
 	border-color: black;
 	padding-top: 1px;
+	height: 52px;
 }
 
 .sidebarBox .sidebarOptionBox:active {
