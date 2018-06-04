@@ -11,9 +11,18 @@ const Attorneys = pages => {
 						<h1>Attorneys</h1>
 					</div>
 				</div>
-				<div className="employeeInfoTextBox">
-					<div className="employeeInfoText">
-						
+				<div className="attorneyBox">
+					<div className="attorneyPhotoBox">
+						<div className="attorneyPhoto">
+						</div>
+					</div>
+					<div className="attorneyNameBox">
+						<div className="attorneyName">
+						</div>
+					</div>
+					<div className="attorneyInfoBox">
+						<div className="attorneyInfo">
+						</div>
 					</div>
 
 				</div>
