@@ -1,0 +1,9 @@
+.contactInfoWrapper {
+	background: red;
+	width: 71%;
+	position: relative;
+	height: 550px;
+	float: right;
+	margin-right: 5%;
+	margin-top: 100px;
+}
