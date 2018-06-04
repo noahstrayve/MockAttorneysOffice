@@ -1,0 +1,19 @@
+.historyInfoWrapper {
+	background: white;
+	width: 71%;
+	position: relative;
+	float: right;
+	margin-right: 5%;
+	margin-top: 100px;
+}
+
+.historyInfoTitle {
+	margin-left: 4%;
+	margin-top: 30px;
+	margin-bottom: 65px;
+}
+
+.historyInfoText {
+	margin-left: 7%;
+	margin-right: 7%;
+}

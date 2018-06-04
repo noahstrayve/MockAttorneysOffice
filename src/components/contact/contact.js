@@ -14,35 +14,34 @@ const Contact = pages => {
 		<div className="contactInfoBox">
 			<div className="contactInfoSubset">
 				<div className="contactInfoSubsetTitle">
-				
+					<h3>Google</h3>
 				</div>
 				<div className="contactInfoSubsetText">
-				
-				</div>
-
-			</div>
-			<div className="contactInfoSubset">
-				<div className="contactInfoSubsetTitle">
-				
-				</div>
-				<div className="contactInfoSubsetText">
-				
+					<p>WE DOING GOOGLE INFO RIGHT HERE</p>
 				</div>
 			</div>
 			<div className="contactInfoSubset">
 				<div className="contactInfoSubsetTitle">
-				
+					<h3>LinkedIn</h3>
 				</div>
 				<div className="contactInfoSubsetText">
-				
+					<p>WE DOING LINKEDIN RIGHT HERE</p>
 				</div>
 			</div>
 			<div className="contactInfoSubset">
 				<div className="contactInfoSubsetTitle">
-				
+					<h3>Third Option</h3>
 				</div>
 				<div className="contactInfoSubsetText">
-				
+					<p>WE DOING NUMBER THREE RIGHT HERE</p>
+				</div>
+			</div>
+			<div className="contactInfoSubset">
+				<div className="contactInfoSubsetTitle">
+					<h3>ANOTHER ONE</h3>
+				</div>
+				<div className="contactInfoSubsetText">
+					<p>WE DOING ANOTHER ONE RIGHT HERE</p>
 				</div>
 			</div>
 		</div>

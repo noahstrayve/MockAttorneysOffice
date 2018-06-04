@@ -1,9 +1,19 @@
 .contactInfoWrapper {
-	background: red;
+	background: white;
 	width: 71%;
 	position: relative;
 	height: 550px;
 	float: right;
 	margin-right: 5%;
 	margin-top: 100px;
+}
+
+.contactInfoHeaderBox {
+	margin-left: 4%;
+	margin-top: 30px;
+	margin-bottom: 35px;
+}
+
+.contactInfoSubset {
+	margin-left: 7%;
 }
